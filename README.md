@@ -2,7 +2,7 @@
 
 <a href="https://www.packtpub.com/product/uipath-administration-and-support-guide/9781803239088?utm_source=github&utm_medium=repository&utm_campaign=9781803239088"><img src="https://static.packt-cdn.com/products/9781803239088/cover/smaller" alt="UiPath Administration and Support Guide" height="256px" align="right"></a>
 
-This is the code repository for [UiPath Administration and Support Guide](https://www.packtpub.com/product/uipath-administration-and-support-guide/9781803239088?utm_source=github&utm_medium=repository&utm_campaign=9781803239088), published by Packt.
+This is the resources repository for [UiPath Administration and Support Guide](https://www.packtpub.com/product/uipath-administration-and-support-guide/9781803239088?utm_source=github&utm_medium=repository&utm_campaign=9781803239088), published by Packt.
 
 **Learn industry-standard practices for UiPath program support and administration activities**
 
