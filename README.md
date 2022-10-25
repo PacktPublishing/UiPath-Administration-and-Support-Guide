@@ -57,3 +57,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 **Arun Kumar Asokan**
 is an Intelligent Automation enthusiast, educator, and leader who has experience setting up and managing Automation Centers of Excellence (CoEs). He has also authored the bestselling Robotic Process Automation Projects book. He has previously worked for different digital consulting groups in advocating process automation benefits and helping clients in different parts of the world including the US, Europe, Australia, and India.
 He is based in the Dallas Fort Worth (DFW) area in the US and he holds a Bachelor of Technology degree from his hometown college, Pondicherry Engineering College, India, and an MBA from Queensland University of Technology, Australia.
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781803239088">https://packt.link/free-ebook/9781803239088 </a> </p>
